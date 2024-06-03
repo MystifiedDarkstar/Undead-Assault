@@ -35,11 +35,5 @@ public class EnemyChase : MonoBehaviour
         {
             m_target = GameObject.FindGameObjectWithTag("Player").transform;
         }
-
-
-
     }
-   
-
-
 }
